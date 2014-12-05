@@ -1,4 +1,4 @@
 lib-test
 ========
 
-some tests for pahakia libraries
+some test projects for pahakia libraries.
