@@ -1,3 +1,7 @@
+target
+.factorypath
+.settings
+.classpath
 *.class
 .project
 
